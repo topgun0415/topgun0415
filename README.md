@@ -6,4 +6,4 @@
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
 
 ### 💫 For more details 
-**[GITHUB BLOG](https://topgun0415.github.io)** | **[Notion](https://www.notion.so/Philipuuu-f0fc95d626f84e7b8f9538e7a665c3da)**
+**[Github blog](https://topgun0415.github.io)** | **[Notion](https://www.notion.so/Philipuuu-f0fc95d626f84e7b8f9538e7a665c3da)**
