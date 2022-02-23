@@ -1,3 +1,6 @@
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=LEE SEONG GYE&height=150&fontSize=60&desc=イソンゲ%20Use%20Text&descAlignY=75&descAlign=60)
+
+
 # *LEE SEONG GYE* *イソンゲ*
 🥷 FrontEnd Developer  
 🇺🇸 🇯🇵 🇨🇳 🇰🇷 🇫🇷 I'm a pre FrontEnd Developer who like to learn languages
