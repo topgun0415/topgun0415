@@ -11,7 +11,7 @@
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://ko.reactjs.org/)
 
 ### 💫 For more details 
-[![Github Blog](https://img.shields.io/badge/GitHub-Blog-gray?style=flat&logo=GitHub&logoColor=black)](https://topgun0415.github.io)  [![Notion Badge](https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black)](https://www.notion.so/Philipuuu-f0fc95d626f84e7b8f9538e7a665c3da)
+[![Github Blog](https://img.shields.io/badge/GitHub-Blog-gray?style=flat&logo=GitHub&logoColor=black)](https://topgun0415.github.io)  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seonggye-lee-0aa096220/)
 
 ---
 
