@@ -10,8 +10,10 @@ CERTIFICATES <br>
 ・ Preparing
 
 Frontend <br>
-[![Languages](https://skillicons.dev/icons?i=js)](https://github.com/topgun0415)
+[![Javascript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+[![Typescript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![NextJS](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
 [![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com) 
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
 [![Mui](https://skillicons.dev/icons?i=mui)](https://mui.com)
