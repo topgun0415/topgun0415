@@ -30,12 +30,14 @@ Database <br>
 [![DB](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://github.com/topgun0415)
 
 CI/CD <br>
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io)
 [![AWS Piepline](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/ko/codepipeline/)
 [![Github Actions](https://skillicons.dev/icons?i=github)](https://github.com/features/actions)
 
 Cloud <br>
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
 
 OS <br>
